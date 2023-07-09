@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Poppins:wght@400;700&display=swap");
+
+h1 {
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  font-size: 25px;
+  font-family: poppins;
+}
+
+h2 {
+  font-family: "montserrat alternates";
+  font-weight: 900;
+}
+img {
+  width: 420px;
+  height: 400px;
+}
+span {
+  font-weight: 900;
+  color: red;
+}
+
+p {
+  font-size: 30px;
+  font-family: "montserrat alternates";
+}
+
+ul {
+  font-family: "poppins";
+}
+
+a {
+  text-decoration: none;
+  font-family: "poppins";
+  color: black;
+}
